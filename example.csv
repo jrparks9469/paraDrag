@@ -1,0 +1,12 @@
+AIRPLANE NAME,,,,,,,,
+,,,,,,,,
+Freestream Velocity,###,,,,,,,
+Altitude,###,,,,,,,
+Reference Area,###,,,,,,,
+,,,,,,,,
+DIVERTER,L_c,S_wet,% lam,width,config,,,
+FLAP,span,deflection,S_wet,wing,,,,
+FOIL,L_c,S_wet,% lam,t_c,x_c,sweep,span,config
+FUSELAGE,L_c,S_wet,% lam,A_max,upsweep,config,,
+SPOILER,A_base,,,,,,,
+STORE,L_c,S_wet,% lam,A_max,,,,
